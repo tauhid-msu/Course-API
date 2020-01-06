@@ -3,7 +3,11 @@ A simple course API microservice project using [1]
 	
 * SpringBoot (STS4)
 * Spring MVC 
-* REST 
+* REST
+* Java Persistence API (JPA)
+* Apache Derbey
+* Apache Tomcat
+ 
 
 
 Reference
